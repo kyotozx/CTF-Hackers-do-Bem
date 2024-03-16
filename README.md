@@ -5,3 +5,6 @@
 - Terminei em sétimo colocado, não avançando por erro da plataforma. 
 
 - Irei atualizar com o tempo, afinal são *muitos* desafios. Eu gravei todas as 5 horas de ctf.
+
+---
+
