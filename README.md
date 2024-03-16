@@ -8,3 +8,8 @@
 
 ---
 
+Se quiser me apoiar de alguma forma, considere me seguir: [Sociais](https://ayo.so/kyotozx) 
+
+Se tiver alguma dúvida, meu discord é kyotozx
+
+---
