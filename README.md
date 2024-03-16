@@ -1,6 +1,6 @@
 # CTF-Hackers-do-Bem-16-03-
 
-- Nesse repositório, irei deixar a resolução de todos os desafios do primeiro CTF do Hackers do Bem.
+- Nesse repositório irei deixar a resolução de todos os desafios do primeiro CTF do Hackers do Bem.
 
 - Terminei em sétimo colocado, não avançando por erro da plataforma. 
 
